@@ -10,7 +10,20 @@
   <img src="https://img.shields.io/badge/Signal%20Processing-DCT-6A4C93?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Fourier-Analysis-FFB703?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Audio-WAV-2A9D8F?style=for-the-badge"/>
+
+  <a href="https://deepwiki.com/maria2332/Fourier-signal-processing" target="_blank">
+    <img src="https://img.shields.io/badge/DeepWiki-Documentation-purple?style=for-the-badge"/>
+  </a>
+  
 </p>
+
+---
+
+## 📚 Project Documentation (External)
+
+An automatically generated documentation view of this repository is available via DeepWiki:
+
+👉 https://deepwiki.com/maria2332/Fourier-signal-processing
 
 ---
 
